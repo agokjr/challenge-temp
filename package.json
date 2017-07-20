@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "BC Coding Challenge",
   "main": "index.js",
+  "engines" : { "node" : ">=7.6" },
   "scripts": {
     "test": "ava",
     "start": "node index.js"
